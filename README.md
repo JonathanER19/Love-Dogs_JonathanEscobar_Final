@@ -45,13 +45,13 @@ Como pantalla principal se muestra un login el cual permite iniciar sesión con 
 con la funcionalidad de registrarse la cual permite crear un usuario unicamente con el rol de cliente.
 
 Para poder iniciar sesión con el rol de administrador ingrese las siguientes credenciales:
-Usuario: ### admin@gmail.com
-Password: ### 12345
+### Usuario: admin@gmail.com
+### Password: 12345
 
 Para iniciar sesíon con el rol cliente se puede registrar en una nueva cuenta en la pantalla principal de login o a su vez se pueda entrar
 con las siguientes credenciales:
-Usuario: ### vivi@gmail.com
-Password: ### 12345
+### Usuario: vivi@gmail.com
+### Password: 12345
 
 ### USUARIO ADMIN
 El usuario admin contará con 4 funcionalidades:
