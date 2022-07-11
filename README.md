@@ -74,8 +74,7 @@ Cuando un usuario quiera adpotar un perro y este de clic en adoptar se le abrira
 3) Si un usuario adpoto un perro debera espera 3 meses para volver adoptar.
 4) Si la ubicacion que se registra en la mascota y la ubicacion del usuario es diferente se le mostrara un mensaje de que la mascota
   no se encuentra en su misma ciudad.
-  ### Si el usuario cumple con todos esos requisitos del formulario el usuario podra adoptar sin ningun problema y esa solicitud de adopción
-  ### la podra ver el usuario admin.
+  ### Si el usuario cumple con todos esos requisitos del formulario el usuario podra adoptar sin ningun problema y esa solicitud de adopción la podra ver el usuario admin.
 
 # Contacto
 jonathanes317@gmail.com
