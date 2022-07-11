@@ -33,6 +33,27 @@ https://www.youtube.com/watch?v=df7soTJ9vW0
 
 http://54.164.224.159:3000/
 
+# Flujo del proyecto deployado
+
+### USUARIOS
+El sistema contará con un control de usuarios por eso ofrece dos roles a seleccionar:
+-Admin (Sera el encargado de administrar el sistema, crear usuarios internamente, registrar mascotas, ver las solicitudes de adopción)
+-Cliente (Podra ver el listado de mascotas y adoptar mediante un formulario)
+
+### INICIO DE SESION Y REGISTRO
+Como pantalla principal se muestra un login el cual permite iniciar sesión con el rol que haya sido creado. Por otra parte tambien cuenta
+con la funcionalidad de registrarse la cual permite crear un usuario unicamente con el rol de cliente.
+
+Para poder iniciar sesión con el rol de administrador ingres
+
+### USUARIO ADMIN
+
+### USUARIO CLIENTE 
+
+
+###
+admin@gmail.com
+
 # Contacto
 jonathanes317@gmail.com
 
